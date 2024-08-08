@@ -1,4 +1,4 @@
-DROP DATABASE IF EXISTS libreria_sb;
+/*DROP DATABASE IF EXISTS libreria_sb; */
 CREATE DATABASE IF NOT EXISTS libreria_sb;
 
 USE libreria_sb;
